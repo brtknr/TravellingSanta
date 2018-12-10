@@ -4,3 +4,5 @@ sklearn
 scipy
 jupyterlab
 matplotlib
+Cython
+git+https://github.com/jvkersch/pyconcorde.git
